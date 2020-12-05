@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
+define('DB_HOST','database-1.c0ioknt4akb6.us-east-1.rds.amazonaws.com');
+define('DB_USER','shweta');
+define('DB_PASS','12345678');
 define('DB_NAME','ofsmsdb');
 // Establish database connection.
 try
